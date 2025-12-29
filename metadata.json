@@ -1,0 +1,7 @@
+{
+  "name": "NutriScan AI",
+  "description": "An AI-powered food transparency app that scans barcodes and labels to analyze ingredients, healthiness, and company origins.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
